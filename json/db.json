@@ -1,0 +1,986 @@
+{
+  "top": [
+    {
+      "image": "./images/top.gif"
+    }
+  ],
+  "story": [
+    {
+      "image": "./images/man-ganj.webp",
+      "title": "شكار گنج"
+    },
+    {
+      "image": "./images/man-blackfriday.webp",
+      "title": "معرفی کوتاه سه پایه نگهدارنده گوشی موبایل یونیمات مدل D909"
+    },
+    {
+      "image": "./images/hamino.webp",
+      "title": "كليپري كه عاشقش شدم"
+    },
+    {
+      "image": "./images/hanzo.webp",
+      "title": "فشارسنج هانزو مدل U82Rh"
+    },
+    {
+      "image": "./images/blackfridaydigi.webp",
+      "title": "بلك فرايدي "
+    },
+    {
+      "image": "./images/blackwhitedarsad.webp",
+      "title": "تابه ی گریل سفری تکنو"
+    },
+    {
+      "image": "./images/blackwhitedarsad.webp",
+      "title": "آب‌ مرکبات گیری بگیر!"
+    },
+    {
+      "image": "./images/gooshizir10.webp",
+      "title": "بهترین گوشی زیر 10 تومن؟"
+    },
+    {
+      "image": "./images/applewatch.webp",
+      "title": "آنباکس اپل واچ سری ۱۰"
+    },
+    {
+      "image": "./images/mini-robat.webp",
+      "title": "دوست جدید من 🤖"
+    },
+    {
+      "image": "./images/zed-aftab.webp",
+      "title": "دنبال ضد آفتاب بیرنگ بودی؟"
+    },
+    {
+      "image": "./images/accessory.webp",
+      "title": "حصيري متفاوت"
+    },
+    {
+      "image": "./images/masajor.webp",
+      "title": "این ماساژور محشره"
+    },
+    {
+      "image": "./images/gooshi-14t.webp",
+      "title": "بلك بررسی کامل 14t"
+    },
+    {
+      "image": "./images/parchamdar.webp",
+      "title": "ببین کی اینجاست! Galaxy S24 FE"
+    },
+    {
+      "image": "./images/soot.webp",
+      "title": "واسه نجات سوت بزن!"
+    },
+    {
+      "image": "./images/parch-ras.webp",
+      "title": "با دستگاه تصفیه خداحافظی کن👋"
+    },
+    {
+      "image": "./images/ordak.webp",
+      "title": "اردک تک تک...!"
+    },
+    {
+      "image": "./images/hamahng.webp",
+      "title": "زود،تند،سریع!!!"
+    },
+    {
+      "image": "./images/nike.webp",
+      "title": "خرید منطقی بدون تردید ..."
+    },
+    {
+      "image": "./images/motalee.webp",
+      "title": "اهل مطالعه‌ای!؟😎❤️ ببین ویدیو رو."
+    },
+    {
+      "image": "./images/budsfe.webp",
+      "title": "بادز اف ای بهتر از بادز ۲ پرو!"
+    }
+  ],
+  "discount": [
+    {
+      "image": "./images/iphone16.gif"
+    },
+    {
+      "image": "./images/candid.webp"
+    },
+    {
+      "image": "./images/anbar.gif"
+    },
+    {
+      "image": "./images/pink.webp"
+    },
+    {
+      "image": "./images/persil.gif"
+    },
+    {
+      "image": "./images/lafar.gif"
+    },
+    {
+      "image": "./images/xvision.webp"
+    },
+    {
+      "image": "./images/darkblue.webp"
+    },
+    {
+      "image": "./images/green.webp"
+    },
+    {
+      "image": "./images/purple.webp"
+    },
+    {
+      "image": "./images/orange.webp"
+    },
+    {
+      "image": "./images/lightgreen.webp"
+    }
+  ],
+  "supermarket": [
+    {
+      "image": "./images/supermarket.png",
+      "title": "supermarket"
+    }
+  ],
+  "scroll": [
+    {
+      "image": "./images/vam.png",
+      "title": "دریافت وام"
+    },
+    {
+      "image": "./images/oldmob.png",
+      "title": "خرید موبایل کارکرده"
+    },
+    {
+      "image": "./images/taladig.png",
+      "title": "طلای دیجیتال"
+    },
+    {
+      "image": "./images/boomimahali.jpg",
+      "title": "بومی و محلی"
+    },
+    {
+      "image": "./images/sendseller.png",
+      "title": "ارسال فروشنده"
+    },
+    {
+      "image": "./images/winer.png",
+      "title": "آیفون16برنده شو"
+    },
+    {
+      "image": "./images/digistyle.jpg",
+      "title": "دیجی استایل"
+    },
+    {
+      "image": "./images/digibusi.png",
+      "title": "دیجی کالا بیزینس"
+    },
+    {
+      "image": "./images/digiserv.png",
+      "title": "دیجی کالا سرویس"
+    }
+  ],
+  "pink": [
+    {
+      "image": "./images/plusmob.webp",
+      "dis": "7%",
+      "title": "گوشی موبایل وکال مدل V1 Plus دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+      "price": "تومان ۵,۰۶۹,۰۰۰",
+      "oldprice": "۵,۴۶۷,۰۰۰"
+    },
+    {
+      "image": "./images/galaxymob.webp",
+      "dis": "3%",
+      "title": "گوشی موبایل وکال مدل V0 Core دو سیم کارت ظرفیت 32 گیگابایت و رم 2 گیگابایت",
+      "price": "تومان ۲,۸۸۹,۰۰۰",
+      "oldprice": "۳,۰۲۰,۰۰۰"
+    },
+    {
+      "image": "./images/laptop.webp",
+      "dis": "2%",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy M14 4G دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت - اکتیو",
+      "price": "تومان ۳۳,۱۹۹,۰۰۰",
+      "oldprice": "۳۳,۹۹۹,۰۰۰"
+    },
+    {
+      "image": "./images/watch.webp",
+      "dis": "15%",
+      "title": "ساعت هوشمند سامسونگ مدل Galaxy Watch 7 40mm",
+      "price": "تومان ۱۲,۲۹۹,۰۰۰",
+      "oldprice": "۱۴,۵۰۰,۰۰۰"
+    },
+    {
+      "image": "./images/slipshort.webp",
+      "dis": "28%",
+      "title": "شورت مردانه پوشاک ناطقیان مدل اسلیپ سوپر نخ پنبه کد 7",
+      "price": "تومان ۸۲,۰۰۰",
+      "oldprice": "۱۱۴,۰۰۰"
+    },
+    {
+      "image": "./images/padarshort.webp",
+      "dis": "19%",
+      "title": "شورت مردانه آوین مدل پادار نخ پنبه کد 32 مجموعه 2 عددی",
+      "price": "۱۳۵,۰۰۰تومان",
+      "oldprice": "۱۶۷,۰۰۰"
+    },
+    {
+      "image": "./images/speakerpor.webp",
+      "dis": "50%",
+      "title": "اسپیکر بلوتوثی قابل حمل وریتی مدل V-PS7027BT",
+      "price": "تومان ۲,۳۲۷,۱۰۰",
+      "oldprice": "۴,۶۷۲,۰۰۰"
+    },
+    {
+      "image": "./images/speakerblu.webp",
+      "dis": "10%",
+      "title": "اسپیکر بلوتوثی قابل حمل جی بی ال مدل Go 4 ",
+      "price": "تومان ۲,۲۹۹,۰۰۰",
+      "oldprice": "۲,۵۵۰,۰۰۰"
+    },
+    {
+      "image": "./images/lamp12.webp",
+      "dis": "38%",
+      "title": "لامپ ال ای دی 12 وات بوم لایتینگ مدل حبابی پایه E27 بسته 2 عددی  ",
+      "price": "تومان ۴۹,۹۰۰",
+      "oldprice": "۸۰,۰۰۰"
+    },
+    {
+      "image": "./images/lamp9.webp",
+      "dis": "36%",
+      "title": "لامپ 9 وات نوردلایت مدل حبابی پایه E27 مجموعه دو عددی ",
+      "price": "۴۵,۰۰۰تومان",
+      "oldprice": "۸۰,۰۰۰"
+    },
+    {
+      "image": "./images/lamp50.webp",
+      "dis": "31%",
+      "title": "لامپ ال ای دی 50 وات بوم لایتینگ مدل استوانه پایه E27",
+      "price": "تومان ۱۶۵,۰۰۰",
+      "oldprice": "۲۴۰,۰۰۰"
+    }
+  ],
+  "fourpic": [
+    {
+      "image": "./images/lavazemhome.webp"
+    },
+    {
+      "image": "./images/arayeshi.webp"
+    },
+    {
+      "image": "./images/techno.webp"
+    },
+    {
+      "image": "./images/maze.webp"
+    }
+  ],
+  "surprise": [
+    {
+      "image": "./images/kisezob.webp",
+      "title": "62%"
+    },
+    {
+      "image": "./images/noghl.webp",
+      "title": "50%"
+    },
+    {
+      "image": "./images/kisefrizer.webp",
+      "title": "50%"
+    }
+  ],
+
+  "category": [
+    [
+      {
+        "image": "./images/mob.png",
+        "title": "موبایل"
+      },
+      {
+        "image": "./images/kaladig.png",
+        "title": "کالای دیجیتال"
+      }
+    ],
+    [
+      {
+        "image": "./images/tahrir.png",
+        "title": "کتاب،لوازم تحریر و هنر"
+      },
+      {
+        "image": "./images/home.png",
+        "title": "خانه و آشپزخانه"
+      }
+    ],
+    [
+      {
+        "image": "./images/barghi.png",
+        "title": "لوازم خانگی برقی"
+      },
+      {
+        "image": "./images/mod.png",
+        "title": "مد و پوشاک"
+      }
+    ],
+    [
+      {
+        "image": "./images/tahrir.png",
+        "title": "کتاب،لوازم تحریر و هنر"
+      },
+      {
+        "image": "./images/home.png",
+        "title": "خانه و آشپزخانه"
+      }
+    ],
+    [
+      {
+        "image": "./images/mob.png",
+        "title": "موبایل"
+      },
+      {
+        "image": "./images/kaladig.png",
+        "title": "کالای دیجیتال"
+      }
+    ],
+
+    [
+      {
+        "image": "./images/tala.png",
+        "title": "طلا و نقره"
+      },
+      {
+        "image": "./images/arayeshibehdashti.png",
+        "title": "آرایشی بهداشتی"
+      }
+    ],
+    [
+      {
+        "image": "./images/tajpez.png",
+        "title": "تجهیزات پزشکی و سلامت"
+      },
+      {
+        "image": "./images/varzesh.png",
+        "title": "ورزش و سفر"
+      }
+    ],
+    [
+      {
+        "image": "./images/tala.png",
+        "title": "طلا و نقره"
+      },
+      {
+        "image": "./images/arayeshibehdashti.png",
+        "title": "آرایشی بهداشتی"
+      }
+    ],
+
+    [
+      {
+        "image": "./images/khodro.png",
+        "title": "خودرو و موتورسیکلت"
+      },
+      {
+        "image": "./images/tools.png",
+        "title": "ابزارآلات  تجهیزات"
+      }
+    ],
+    [
+      {
+        "image": "./images/giftcard.png",
+        "title": "کارت هدیه و گیفت کارت"
+      },
+      {
+        "image": "./images/khoraki.png",
+        "title": "کالای خوراکی و اساسی"
+      }
+    ],
+    [
+      {
+        "image": "./images/toys.png",
+        "title": "اسباب بازی،کودک و نوزاد"
+      },
+      {
+        "image": "./images/boomi.png",
+        "title": "محصولات بومی محلی"
+      }
+    ],
+    [
+      {
+        "image": "./images/tala.png",
+        "title": "طلا و نقره"
+      },
+      {
+        "image": "./images/arayeshibehdashti.png",
+        "title": "آرایشی بهداشتی"
+      }
+    ]
+  ],
+  "undercat": [
+    {
+      "image": "./images/mylady.webp"
+    },
+    {
+      "image": "./images/uniq.webp"
+    }
+  ],
+  "brand": [
+    {
+      "image": "./images/pril.png"
+    },
+    {
+      "image": "./images/persilbrand.png"
+    },
+    {
+      "image": "./images/kingstar.png"
+    },
+    {
+      "image": "./images/adata.png"
+    },
+    {
+      "image": "./images/huawei.png"
+    },
+    {
+      "image": "./images/pegah.png"
+    },
+    {
+      "image": "./images/zarin.png"
+    },
+    {
+      "image": "./images/panter.jpg"
+    },
+    {
+      "image": "./images/xvi.jpg"
+    },
+    {
+      "image": "./images/vital.png"
+    },
+    {
+      "image": "./images/lafarbrand.png"
+    },
+    {
+      "image": "./images/samsung.jpg"
+    },
+    {
+      "image": "./images/my.png"
+    },
+    {
+      "image": "./images/mi.png"
+    },
+    {
+      "image": "./images/vitalayer.png"
+    },
+    {
+      "image": "./images/active.jpg"
+    },
+    {
+      "image": "./images/mahya.jpg"
+    },
+    {
+      "image": "./images/ayin.png"
+    },
+    {
+      "image": "./images/kale.png"
+    },
+    {
+      "image": "./images/shon.jpg"
+    },
+    {
+      "image": "./images/azar.jpg"
+    }
+  ],
+  "underbrand": [
+    {
+      "image": "./images/protein.webp"
+    },
+    {
+      "image": "./images/imki.gif"
+    }
+  ],
+  "mobile": [
+    {
+      "image": "./images/iphoneblue.jpg"
+    },
+    {
+      "image": "./images/doodi256.jpg"
+    },
+    {
+      "image": "./images/doodi512.jpg"
+    },
+    {
+      "image": "./images/iphonewhite.jpg"
+    }
+  ],
+  "kifcover": [
+    {
+      "image": "./images/pool.jpg"
+    },
+    {
+      "image": "./images/cup.jpg"
+    },
+    {
+      "image": "./images/brown.jpg"
+    },
+    {
+      "image": "./images/view.jpg"
+    }
+  ],
+  "headhand": [
+    {
+      "image": "./images/airpods.jpg"
+    },
+    {
+      "image": "./images/airpodb.jpg"
+    },
+    {
+      "image": "./images/airpodblack.jpg"
+    },
+    {
+      "image": "./images/airpodpink.jpg"
+    }
+  ],
+
+  "lapelectra": [
+    {
+      "image": "./images/lap1.jpg"
+    },
+    {
+      "image": "./images/lap2.jpg"
+    },
+    {
+      "image": "./images/lap3.jpg"
+    },
+    {
+      "image": "./images/lap4.jpg"
+    }
+  ],
+
+  "hot": [
+    [
+      {
+        "image": "./images/gamemagic.webp",
+        "number": "1",
+        "title": "بازی آموزشی مجیک واتر طرح سگهای نگهبان"
+      },
+      {
+        "image": "./images/kitvahid.webp",
+        "number": "2",
+        "title": "کیت آموزشی وحید کیت مدل جعبه آهنگین کد vk 100"
+      },
+      {
+        "image": "./images/topak.webp",
+        "number": "3",
+        "title": "کیت آموزشی وحید کیت مدل جعبه آهنگین  توپک پوم پوم کد TP100 بسته 100 عددی"
+      }
+    ],
+    [
+      {
+        "image": "./images/sanjagh.webp",
+        "number": "4",
+        "title": "سنجاق قفلی کد S025 مجموعه 4 عددی"
+      },
+      {
+        "image": "./images/ferfere.webp",
+        "number": "5",
+        "title": "زمین فرفره انفجاری مدل beyblade r9 "
+      },
+      {
+        "image": "./images/topak.webp",
+        "number": "6",
+        "title": "شمش طلا 18 عیار مدوپد مدل گل کد SG-10304"
+      }
+    ],
+    [
+      {
+        "image": "./images/gelsofal.webp",
+        "number": "7",
+        "title": "گل سفالگری مدل گل رس بسته 4 عددی"
+      },
+      {
+        "image": "./images/jabatri.webp",
+        "number": "8",
+        "title": "جا باتری قلمی مدل TK-VS2 بسته 2 عددی  "
+      },
+      {
+        "image": "./images/chasbpazel.webp",
+        "number": "9",
+        "title": "چسب پازل جیتو کد 988 "
+      }
+    ],
+    [
+      {
+        "image": "./images/mic.webp",
+        "number": "10",
+        "title": "میکروفون اسباب بازی مدل ws"
+      },
+      {
+        "image": "./images/maskmafia.webp",
+        "number": "11",
+        "title": "ماسک ایفای نقش مدل مافیا Mafia بسته 10 عددی"
+      },
+      {
+        "image": "./images/maskv.webp",
+        "number": "12",
+        "title": "ماسک ایفای نقش مدل وی"
+      }
+    ],
+    [
+      {
+        "image": "./images/jabatrivs2.webp",
+        "number": "13",
+        "title": "جا باتری قلمی مدل vs2"
+      },
+      {
+        "image": "./images/mrrad.webp",
+        "number": "14",
+        "title": "بازی آموزشی مستر راد مدل براده آهن "
+      },
+      {
+        "image": "./images/poodrjel.webp",
+        "number": "15",
+        "title": "پودر بوراکس ساخت ژل بازی شاپرک کد B80"
+      }
+    ],
+    [
+      {
+        "image": "./images/nakh.webp",
+        "number": "16",
+        "title": "نخ خیاطی کد SS_15 بسته ۲ عددی"
+      },
+      {
+        "image": "./images/gamealefba.webp",
+        "number": "17",
+        "title": "نخ خیاطی کد SS_15 بسته ۲ عددی"
+      },
+      {
+        "image": "./images/eyedoll.webp",
+        "number": "18",
+        "title": "چشم عروسک طرح دایره ای کد CIR-5 بسته 100 عددی"
+      }
+    ]
+  ],
+  "fourpic2": [
+    {
+      "image": "./images/technozarf.webp"
+    },
+    {
+      "image": "./images/golha.webp"
+    },
+    {
+      "image": "./images/sorbon.webp"
+    },
+    {
+      "image": "./images/panirha.webp"
+    }
+  ],
+
+  "best": [
+    [
+      {
+        "image": "./images/kare.webp",
+        "number": "1",
+        "title": "کره حیوانی پاستوریزه شکلی 50 گرم"
+      },
+      {
+        "image": "./images/alkatel.webp",
+        "number": "2",
+        "title": "گوشی موبایل آلکاتل مدل 1069 دو سیم‌ کارت"
+      },
+      {
+        "image": "./images/nokia.webp",
+        "number": "3",
+        "title": "گوشی موبایل نوکیا مدل 105 2023 دو سیم‌ کارت - مونتاژ ایران تحت لیسانس نوکیا"
+      }
+    ],
+    [
+      {
+        "image": "./images/panberiz.webp",
+        "number": "4",
+        "title": "نوار بهداشتی پنبه ریز مدل لطیف سایز L ضخیم بسته 10 عددی"
+      },
+      {
+        "image": "./images/barf.webp",
+        "number": "5",
+        "title": "پودر لباسشویی دستی برف مدل Super وزن 500 گرم"
+      },
+      {
+        "image": "./images/batrighalami.webp",
+        "number": "6",
+        "title": "باتری قلمی کملیون مدل Super Heavy Duty بسته 4 عددی"
+      }
+    ],
+    [
+      {
+        "image": "./images/lamp12vat.webp",
+        "number": "7",
+        "title": "لامپ ال ای دی 12 وات بوم لایتینگ مدل حبابی پایه E27 بسته 2 عددی "
+      },
+      {
+        "image": "./images/shia.webp",
+        "number": "8",
+        "title": "گوشی موبایل شیائومی مدل Redmi Note 13 4G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت"
+      },
+      {
+        "image": "./images/panirkh.webp",
+        "number": "9",
+        "title": "پنیر خامه ای ویلی کاله - 350 گرم "
+      }
+    ],
+    [
+      {
+        "image": "./images/sugar.webp",
+        "number": "10",
+        "title": "شکر سفید الماس دانه - 1 کیلوگرم "
+      },
+      {
+        "image": "./images/navarnight.webp",
+        "number": "11",
+        "title": "نوار بهداشتی تافته مدل Yalda Night مناسب پوست حساس سایز خیلی بزرگ بسته 7 عددی"
+      },
+      {
+        "image": "./images/ghors.webp",
+        "number": "12",
+        "title": "قرص بی سی ای ای + ب6  بسته 120 عددی"
+      }
+    ],
+    [
+      {
+        "image": "./images/shirpegah.webp",
+        "number": "13",
+        "title": "شیر پر چرب پگاه - 1 لیتر "
+      },
+      {
+        "image": "./images/khamekale.webp",
+        "number": "14",
+        "title": "خامه صبحانه کاله -200 میلی لیتر "
+      },
+      {
+        "image": "./images/roghanbahar.webp",
+        "number": "15",
+        "title": "روغن مخصوص سرخ کردنی بهار الماس - 1.8 لیتر"
+      }
+    ],
+    [
+      {
+        "image": "./images/egg.webp",
+        "number": "16",
+        "title": "تخم مرغ گرید A سیمرغ بسته 20 عددی "
+      },
+      {
+        "image": "./images/spag.webp",
+        "number": "17",
+        "title": "اسپاگتی قطر 1.2 زر ماکارون مقدار 700 گرم"
+      },
+      {
+        "image": "./images/headph.webp",
+        "number": "18",
+        "title": "هدفون بلوتوثی انکر مدل SoundCore R50i A3949"
+      }
+    ]
+  ],
+  "woon": [
+    {
+      "image": "./images/woon.webp",
+      "title": "woon"
+    }
+  ],
+
+  "smartwatch": [
+    {
+      "image": "./images/smartwatch1.jpg"
+    },
+    {
+      "image": "./images/smartwatch2.jpg"
+    },
+    {
+      "image": "./images/smartwatch3.jpg"
+    },
+    {
+      "image": "./images/smartwatch4.jpg"
+    }
+  ],
+  "menwatch": [
+    {
+      "image": "./images/menwatch1.jpg"
+    },
+    {
+      "image": "./images/menwatch2.jpg"
+    },
+    {
+      "image": "./images/menwatch3.jpg"
+    },
+    {
+      "image": "./images/menwatch4.jpg"
+    }
+  ],
+  "lavazem": [
+    {
+      "image": "./images/lavazem1.jpg"
+    },
+    {
+      "image": "./images/lavazem2.jpg"
+    },
+    {
+      "image": "./images/lavazem3.jpg"
+    },
+    {
+      "image": "./images/lavazem4.jpg"
+    }
+  ],
+
+  "menshort": [
+    {
+      "image": "./images/menshort1.jpg"
+    },
+    {
+      "image": "./images/menshort2.jpg"
+    },
+    {
+      "image": "./images/menshort3.jpg"
+    },
+    {
+      "image": "./images/menshort4.jpg"
+    }
+  ],
+
+  "hothour": [
+    [
+      {
+        "image": "./images/set.webp",
+        "number": "1",
+        "title": "ست تی شرت و شلوار دخترانه بانی نو مدل اسب شاخدار قلبی"
+      },
+      {
+        "image": "./images/soozan.webp",
+        "number": "2",
+        "title": "سوزن توپ مدل P.S.10 بسته 10 عددی"
+      },
+      {
+        "image": "./images/mochband.webp",
+        "number": "3",
+        "title": "مچ بند بدنسازی مدل پارچه ای لبه چرمی بسته دو عددی"
+      }
+    ],
+    [
+      {
+        "image": "./images/kisebox.webp",
+        "number": "4",
+        "title": "کیسه بوکس هوشمند مدل موزیکال 004"
+      },
+      {
+        "image": "./images/chooblebasi.webp",
+        "number": "5",
+        "title": "چوب لباسی نوزاد مدل Bear بسته 5 عددی"
+      },
+      {
+        "image": "./images/scarf.webp",
+        "number": "6",
+        "title": "اسکارف ورزشی هزاردستان کد ds1009"
+      }
+    ],
+    [
+      {
+        "image": "./images/mane.webp",
+        "number": "7",
+        "title": "مانع تمرین بشقابی مدل کنز بسته 10 عددی "
+      },
+      {
+        "image": "./images/ajor.webp",
+        "number": "8",
+        "title": "آجر یوگا مدل Yogimats کد06 بسته 2 عددی"
+      },
+      {
+        "image": "./images/gooshgir.webp",
+        "number": "9",
+        "title": "گوش گیر و دماغ گیر مدل H-12 "
+      }
+    ],
+    [
+      {
+        "image": "./images/kamarband.webp",
+        "number": "10",
+        "title": "کمربند یوگا تن زیب مدل cotton-300mm "
+      },
+      {
+        "image": "./images/kolah.webp",
+        "number": "11",
+        "title": "کلاه بچگانه مدل موهر کشی"
+      },
+      {
+        "image": "./images/mirrorbic.webp",
+        "number": "12",
+        "title": "آیینه دوچرخه"
+      }
+    ],
+    [
+      {
+        "image": "./images/jimball.webp",
+        "number": "13",
+        "title": "توپ تناسب اندام جیم بال مدل BEYOND سایز 75 "
+      },
+      {
+        "image": "./images/roghanbahar.webp",
+        "number": "14",
+        "title": "کنسرو رب گوجه فرنگی شهدین - 800 گرم بسته 6 عددی "
+      },
+      {
+        "image": "./images/headband.webp",
+        "number": "15",
+        "title": "هدبند نوزادی مدل خرس تدی کوچولو"
+      }
+    ],
+    [
+      {
+        "image": "./images/step.webp",
+        "number": "16",
+        "title": " تخته استپ مدل TSE بسته 2 عددی"
+      },
+      {
+        "image": "./images/fom.webp",
+        "number": "17",
+        "title": "فوم رولر تن زیب مدل بدون آج"
+      },
+      {
+        "image": "./images/pilates.webp",
+        "number": "18",
+        "title": "توپ پیلاتس مدل 25 ساده"
+      }
+    ]
+  ],
+  "reading": [
+    {
+      "image": "./images/kore.jpg",
+      "title": "راهنمای شناخت سیاره مشتری؛ غول گازی منظومه‌ی شمسی"
+    },
+    {
+      "image": "./images/30th.jpg",
+      "title": "۳۰ سال ۳۰ بازی؛ پلی‌استیشن چگونه تعریف می‌شود؟"
+    },
+    {
+      "image": "./images/meta.jpg",
+      "title": "متا برای پردازش‌های هوش مصنوعی از انرژی هسته‌ای استفاده خواهد کرد"
+    },
+    {
+      "image": "./images/insta.jpg",
+      "title": "تغییر رمز اینستاگرام چگونه انجام می‌شود؟"
+    }
+  ],
+  "brandend": [
+    {
+      "image": "./images/digikalamag.svg"
+    },
+    {
+      "image": "./images/digipay.svg"
+    },
+    {
+      "image": "./images/digistyle.svg"
+    },
+    {
+      "image": "./images/plus.svg"
+    },
+    {
+      "image": "./images/digiclub.svg"
+    },
+    {
+      "image": "./images/jet.svg"
+    },
+    {
+      "image": "./images/mehr.svg"
+    },
+    {
+      "image": "./images/next.svg"
+    }
+  ]
+}
